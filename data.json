@@ -7,9 +7,9 @@
   "musicUrl": "https://youtube.com/",
   "overviewUrl": "https://hololivesuperexpo.hololivepro.com/2027/",
   "maps": [
-    "",
-    "",
-    "ここに地図3のGoogleマップURLを入れる",
+    "https://maps.app.goo.gl/WwiidrBPj5wMLxXH7",
+    "https://maps.app.goo.gl/6FjXncA4xazxcjg16",
+    "https://maps.app.goo.gl/pvCpiTzeDkE3hjJu6",
     "ここに地図4のGoogleマップURLを入れる"
   ]
 }
